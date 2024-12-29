@@ -1,0 +1,9 @@
+.pomodoro-container {
+  margin: 0 auto;
+  width: max-content;
+  text-align: center;
+}
+
+.timer {
+  font-size: 10rem;
+}
