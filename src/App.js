@@ -1,11 +1,9 @@
 import './App.css';
+import Pomodoro from './Pomodoro';
 
 function App() {
   return (
-    <div className="pomodoro-container">
-    <h1>Pomodoro timer</h1>
-    <p className="timer">25:00</p>
-  </div>
+    <Pomodoro />
   );
 }
 

@@ -1,0 +1,21 @@
+.pomodoro-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.timer {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.controls button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.numOfReps {
+  font-size: 24px;
+  margin: 20px 0;
+}
